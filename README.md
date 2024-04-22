@@ -31,7 +31,7 @@
    - Classical nonlinear dynamics: [Classical Nonlinear Systems](https://github.com/YashLokare02/ClassicalNonlinearSystems).
    - Schlogl model: [Schlogl model](https://github.com/YashLokare02/Schlogl-model).
 
-![NonlinearDynamics](/assets/img/Negative a_no DD_Brisbane_PDF.png) | ![Schlogl model](fig1.png)
+![NonlinearDynamics](/assets/img/Negative a_no DD_Brisbane_PDF.png) | ![Schlogl model](Schlogl_model.png)
 
 **Undergraduate Research Assistant. IESL-FORTH, Hellas (_Aug '21 - Present_)**
 - Supervised by Prof. [Wolf von Klitzing](https://www.iesl.forth.gr/en/people/von-klitzing-wolf) and Prof. [Makris Konstantinos](https://www.iesl.forth.gr/en/people/makris-konstantinos).
@@ -53,7 +53,7 @@
 - Supervised by Prof. [Anupam Mazumdar](https://www.rug.nl/staff/anupam.mazumdar/) and Prof. [Sougato Bose](https://www.ucl.ac.uk/physics-astronomy/people/professor-sougato-bose).
 - Developed an analytical model for spin coherence in a full-loop Stern-Gerlach interferometer for a pure initial state that assumes a Gaussian profile (harmonic oscillator coherent state).
 - Obtained theoretical bounds on the experimental parameter space that will be relevant for realizing the proposed QGEM (Quantum Gravity via Entanglement of Masses) experiment.
-- This work led to two papers; one is out on the arXiv [arXiv:2105.03785](https://arxiv.org/abs/2105.03785) and the other has been accepted for publication in Frontiers in Physics [paper](https://www.frontiersin.org/articles/10.3389/fphy.2022.785125/full#:~:text=Stern%2DGerlach%20interferometry%20is%20considered,general%20theme%20in%20this%20context.).
+- This work led to two papers; one is out on the arXiv ([arXiv:2105.03785](https://arxiv.org/abs/2105.03785)) and the other has been accepted for publication in Frontiers in Physics ([Paper](https://www.frontiersin.org/articles/10.3389/fphy.2022.785125/full#:~:text=Stern%2DGerlach%20interferometry%20is%20considered,general%20theme%20in%20this%20context.)).
 
 ![Entanglement](/assets/img/Entanglement dynamics plots.jpg)
 
@@ -67,7 +67,7 @@
 - Supervised by Prof. [David R. Williams](https://physics.anu.edu.au/contact/people/profile.php?ID=55&tab=publications).
 - Developed an analytical model for the stochastic entropy distribution along transient trajectories for a system consisting of a Brownian particle optically confined within an arbitrary power-law trap (immersed in a viscous fluid and translating linearly at constant acceleration).
 - Demonstrated through computer simulations that the transient fluctuation theorem also applies to nonequilibrium steady-state distributions at colloidal length and time scales. Numerical results bore excellent correspondence with theoretical results published previously.
-- Work published in the European Physical Journal Plus ([paper](https://link.springer.com/article/10.1140/epjp/s13360-022-03395-y)).
+- Work published in the European Physical Journal Plus ([Paper](https://link.springer.com/article/10.1140/epjp/s13360-022-03395-y)).
 
 ![Brownian](/assets/img/Linear fit_harmonic_long times.png)
 
