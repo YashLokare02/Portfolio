@@ -82,6 +82,7 @@
 ## Relevant Coursework
 - Applied Quantum Mechanics.
 - Computational Physics.
+- Quantum Heterostructures. 
 - Solid-State Physics.
 - Non-Equilibrium Statistical Mechanics.
 - Quantum Information and Computation.
