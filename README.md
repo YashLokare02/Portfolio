@@ -25,7 +25,7 @@
 - Currently performing comparative analyses between the QPE and variational quantum deflation (VQD) algorithms for the quantum simulation of said classical nonlinear dynamical systems.
 - Currently working on using our implementation(s) to extract the steady-state statistics of the Held-Suarez climate model (see [arXiv:2304.03362](https://arxiv.org/abs/2304.03362)).
 - Worked on using our implementation(s) to extract the steady-state statistics of the Schlogl model, a paradigmatic example of a stochastic chemical reaction network known to exhibit multiple non-equilibrium steady-states.
-- One manuscript is out on arXiv [arXiv:2404.08870](https://doi.org/10.48550/arXiv.2404.08770) while a second manuscript is currently underway (future works to follow).
+- One manuscript is out on arXiv ([arXiv:2404.08870](https://doi.org/10.48550/arXiv.2404.08770)) while a second manuscript is currently underway (future works to follow).
 - Our results were recently presented at the APS March Meeting 2024 in Minneapolis, Minnesota ([link to the abstract](https://meetings.aps.org/Meeting/MAR24/Session/K49.3)).
 -  GitHub repository links to the projects:
    - Classical nonlinear dynamics: [Classical Nonlinear Systems](https://github.com/YashLokare02/ClassicalNonlinearSystems).
