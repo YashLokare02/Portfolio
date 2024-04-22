@@ -36,7 +36,7 @@
 **Undergraduate Research Assistant. IESL-FORTH, Hellas (_Aug '21 - Present_)**
 - Supervised by Prof. [Wolf von Klitzing](https://www.iesl.forth.gr/en/people/von-klitzing-wolf) and Prof. [Makris Konstantinos](https://www.iesl.forth.gr/en/people/makris-konstantinos).
 - Developed a full analytical model of a TOP trap.
-- Was successfully able to devise a control scheme to achieving a focusing (of matter waves) on the order of 1e-5 through numerical modeling. Further work focused on making the control scheme robust to nonlinear perturbations.
+- Was successfully able to devise a control scheme capable of achieving a focusing (of matter waves) on the order of 1e-5 through numerical modeling. Further work focused on making the control scheme robust to nonlinear perturbations.
 - GitHub repository link to the project: [Matter-Wave Optics](https://github.com/GlazeDonuts/Matter-Wave-Optics). 
 
 ![MatterWaveOptics](/assets/img/Surface_plot.png)
@@ -62,6 +62,8 @@
 - Worked on Project Starshot – aims at sending ultralight probes to the alpha-Centauri star system within the next few decades.
 - Developed computer simulations for the optical analysis of the 2D asymmetric Si gratings that are proposed to be placed on the sails (that are to be fitted to the probes for the purpose of propulsion (via radiation pressure)).
 - Developed computer simulations for the analysis of the mechanical stability of the sails and the probes while at peak cruising velocities.
+
+![Starshot](/assets/img/Displacement_plots.png)
 
 **Undergraduate Research Assistant. The Australian National University (_Nov '20 - April '21_)**
 - Supervised by Prof. [David R. Williams](https://physics.anu.edu.au/contact/people/profile.php?ID=55&tab=publications).
