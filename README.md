@@ -35,7 +35,7 @@
 
 **Undergraduate Research Assistant. IESL-FORTH, Hellas (_Aug '21 - Present_)**
 - Supervised by Prof. [Wolf von Klitzing](https://www.iesl.forth.gr/en/people/von-klitzing-wolf) and Prof. [Makris Konstantinos](https://www.iesl.forth.gr/en/people/makris-konstantinos).
-- Developed a full analytical model of a TOP trap.
+- Developed a full analytical model for a TOP trap.
 - Was successfully able to devise a control scheme capable of achieving a focusing (of matter waves) on the order of 1e-5 through numerical modeling. Further work focused on making the control scheme robust to nonlinear perturbations.
 - GitHub repository link to the project: [Matter-Wave Optics](https://github.com/GlazeDonuts/Matter-Wave-Optics). 
 
