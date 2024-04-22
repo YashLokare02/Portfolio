@@ -39,7 +39,7 @@
 - Was successfully able to devise a control scheme to achieving a focusing (of matter waves) on the order of 1e-5 through numerical modeling. Further work focused on making the control scheme robust to nonlinear perturbations.
 - GitHub repository link to the project: [Matter-Wave Optics](https://github.com/GlazeDonuts/Matter-Wave-Optics). 
 
-![MatterWaveOptics](/assets/img/Surface plots for different parameters.png)
+![MatterWaveOptics](/assets/img/Surface_plot.png)
 
 **Undergraduate Research Assistant. Indian Institute of Technology, Delhi (_Aug '21 - June '22_)**
 - Supervised by Prof. [Sujit Manna](https://iitd.irins.org/profile/90515).
@@ -67,7 +67,7 @@
 - Supervised by Prof. [David R. Williams](https://physics.anu.edu.au/contact/people/profile.php?ID=55&tab=publications).
 - Developed an analytical model for the stochastic entropy distribution along transient trajectories for a system consisting of a Brownian particle optically confined within an arbitrary power-law trap (immersed in a viscous fluid and translating linearly at constant acceleration).
 - Demonstrated through computer simulations that the transient fluctuation theorem also applies to nonequilibrium steady-state distributions at colloidal length and time scales. Numerical results bore excellent correspondence with theoretical results published previously.
-- Work published in the European Physical Journal Plus. [paper](https://link.springer.com/article/10.1140/epjp/s13360-022-03395-y).
+- Work published in the European Physical Journal Plus ([paper](https://link.springer.com/article/10.1140/epjp/s13360-022-03395-y)).
 
 ![Brownian](/assets/img/Linear fit_harmonic_long times.png)
 
