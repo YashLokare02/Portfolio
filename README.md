@@ -31,7 +31,9 @@
    - Classical nonlinear dynamics: [Classical Nonlinear Systems](https://github.com/YashLokare02/ClassicalNonlinearSystems).
    - Schlogl model: [Schlogl model](https://github.com/YashLokare02/Schlogl-model).
 
-![NonlinearDynamics](/assets/img/Negative a_no DD_Brisbane_PDF.png) | ![Schlogl model](Schlogl_model.png)
+![NonlinearDynamics](/assets/img/Negative a_no DD_Brisbane_PDF.png) 
+
+![Schlogl model](Schlogl_model.png)
 
 **Undergraduate Research Assistant. IESL-FORTH, Hellas (_Aug '21 - Present_)**
 - Supervised by Prof. [Wolf von Klitzing](https://www.iesl.forth.gr/en/people/von-klitzing-wolf) and Prof. [Makris Konstantinos](https://www.iesl.forth.gr/en/people/makris-konstantinos).
