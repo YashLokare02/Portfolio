@@ -1,6 +1,6 @@
 # Graduate Student in Physics
 
-#### Technical Skills: MATLAB, C++, GNU Octave, Python, HTML, COMSOL Multiphysics AnyLogic, SimScale, JavaScript
+#### Technical Skills: MATLAB, C++, GNU Octave, Python, HTML, COMSOL Multiphysics, AnyLogic, SimScale, JavaScript
 
 ## Education
 - Sc.M. Physics | Brown University (Exp. 2024)
