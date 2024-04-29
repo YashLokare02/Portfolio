@@ -14,8 +14,8 @@
 5. Y. Lokare. A complete analysis of spin coherence in the full-loop Stern Gerlach interferometer using non-squeezed and squeezed coherent states of the Quantum harmonic oscillator. arXiv (2021). [Link to article](https://arxiv.org/abs/2105.03785).
 
 ## Conferences
-1. Y. Lokare, L. Chan, B. M. Rubenstein, and J. B. Marston. NISQ Computing the Climate. *APS March Meeting*, March 2024, Minneapolis, Minnesota. [Link to the abstract](https://meetings.aps.org/Meeting/MAR24/Session/K49.3).
-2. J. B. Marston, Y. Lokare, L. Chan, and B. M. Rubenstein. Quantum Computing the Climate? *24th Conference on Atmospheric and Oceanic Fluid Dynamics & 22nd Conference on Middle Atmosphere*. June 2024, Burlington, Vermont. [Link to the abstract](https://ams.confex.com/ams/24Fluid22Middle/meetingapp.cgi/Paper/443870). 
+1. **Y. Lokare**, L. Chan, B. M. Rubenstein, and J. B. Marston. NISQ Computing the Climate. *APS March Meeting*, March 2024, Minneapolis, Minnesota. [Link to the abstract](https://meetings.aps.org/Meeting/MAR24/Session/K49.3).
+2. J. B. Marston, **Y. Lokare**, L. Chan, and B. M. Rubenstein. Quantum Computing the Climate? *24th Conference on Atmospheric and Oceanic Fluid Dynamics & 22nd Conference on Middle Atmosphere*. June 2024, Burlington, Vermont. [Link to the abstract](https://ams.confex.com/ams/24Fluid22Middle/meetingapp.cgi/Paper/443870). 
 
 ## Research Experience ([CV](https://drive.google.com/file/d/1OrwoZSLzLFnjt2D6UHy9otMLpv-0enkt/view?usp=drive_link))
 **Graduate Research Assistant. Department of Physics/Chemistry (_Oct '22 - Present_)**
