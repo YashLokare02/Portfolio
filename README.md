@@ -17,7 +17,7 @@
 1. **Y. Lokare**, L. Chan, B. M. Rubenstein, and J. B. Marston. NISQ Computing the Climate. *APS March Meeting*, March 2024, Minneapolis, Minnesota. [Link to the abstract](https://meetings.aps.org/Meeting/MAR24/Session/K49.3).
 2. J. B. Marston, **Y. Lokare**, L. Chan, and B. M. Rubenstein. Quantum Computing the Climate? *24th Conference on Atmospheric and Oceanic Fluid Dynamics & 22nd Conference on Middle Atmosphere*. June 2024, Burlington, Vermont. [Link to the abstract](https://ams.confex.com/ams/24Fluid22Middle/meetingapp.cgi/Paper/443870). 
 
-## Research Experience ([CV](https://drive.google.com/file/d/1OrwoZSLzLFnjt2D6UHy9otMLpv-0enkt/view?usp=drive_link))
+## Research Experience ([CV](https://drive.google.com/file/d/1IAt7gsP8U-CDszOS_Y21GA9DkN4GJHm4/view?usp=drive_link))
 **Graduate Research Assistant. Department of Physics/Chemistry (_Oct '22 - Present_)**
 - Supervised by Prof. [Brenda Rubenstein](https://vivo.brown.edu/display/brubenst) and Prof. [Brad Marston](https://sites.brown.edu/marstonresearchgroup/).
 - Working on modeling the steady-state statistics of classical nonlinear dynamical systems on Noisy Intermediate-Scale Quantum Devices.
@@ -62,6 +62,7 @@
 - Worked on Project Starshot – aims at sending ultralight probes to the alpha-Centauri star system within the next few decades.
 - Developed computer simulations for the optical analysis of the 2D asymmetric Si gratings that are proposed to be placed on the sails (that are to be fitted to the probes for the purpose of propulsion (via radiation pressure)).
 - Developed computer simulations for the analysis of the mechanical stability of the sails and the probes while at peak cruising velocities.
+- Link to the final report: [Project Report](https://drive.google.com/file/d/1I1mkj7zkWQ-0HAfj7IPuc-2gDHkl6UJ3/view?usp=drive_link). 
 
 ![Starshot](/assets/img/Displacement_plots.png)
 
