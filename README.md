@@ -3,8 +3,8 @@
 #### Technical Skills: MATLAB, C++, GNU Octave, Python, HTML, COMSOL Multiphysics, AnyLogic, SimScale, JavaScript
 
 ## Education
-- Sc.M. Physics | Brown University (Exp. 2024)
-- B.Tech in Engineering Physics | Indian Institute of Technology, Delhi (_November 2022_)
+- Sc.M. Physics | Brown University (_May 2024_)
+- B.Tech. in Engineering Physics | Indian Institute of Technology, Delhi (_November 2022_)
 
 ## Publications/Preprints ([Google Scholar](https://scholar.google.com/citations?user=eKnJti4AAAAJ&hl=en))
 1. **Y. M. Lokare**, D. Wei, L. Chan, B. M. Rubenstein, and J. B. Marston. Steady-State Statistics of Classical Nonlinear Dynamical Systems from Noisy Intermediate-Scale Quantum Devices---(*Manuscript in preparation*).
@@ -15,7 +15,7 @@
 
 ## Conferences
 1. **Y. Lokare**, L. Chan, B. M. Rubenstein, and J. B. Marston. NISQ Computing the Climate. *APS March Meeting*, March 2024, Minneapolis, Minnesota. [Link to the abstract](https://meetings.aps.org/Meeting/MAR24/Session/K49.3).
-2. J. B. Marston, **Y. Lokare**, L. Chan, and B. M. Rubenstein. Quantum Computing the Climate? *24th Conference on Atmospheric and Oceanic Fluid Dynamics & 22nd Conference on Middle Atmosphere*. June 2024, Burlington, Vermont. [Link to the abstract](https://ams.confex.com/ams/24Fluid22Middle/meetingapp.cgi/Paper/443870). 
+2. J. B. Marston, **Y. Lokare**, L. Chan, and B. M. Rubenstein. Quantum Computing the Climate? *24th Conference on Atmospheric and Oceanic Fluid Dynamics & 22nd Conference on Middle Atmosphere*. June 2024, Burlington, Vermont. [Abstract](https://ams.confex.com/ams/24Fluid22Middle/meetingapp.cgi/Paper/443870) + [Final Poster](https://drive.google.com/file/d/1LUUf4vBaXHLAMIWrmWFf4SjczksdRWH5/view?usp=drive_link). 
 
 ## Research Experience ([CV](https://drive.google.com/file/d/1IAt7gsP8U-CDszOS_Y21GA9DkN4GJHm4/view?usp=drive_link))
 **Graduate Research Assistant. Department of Physics/Chemistry (_Oct '22 - Present_)**
