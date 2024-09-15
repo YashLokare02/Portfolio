@@ -3,6 +3,7 @@
 #### Technical Skills: MATLAB, C++, GNU Octave, Python, HTML, COMSOL Multiphysics, AnyLogic, SimScale, JavaScript
 
 ## Education
+- Ph.D. Physics | Brown University (Exp. _2030_)
 - Sc.M. Physics | Brown University (_May 2024_)
 - B.Tech. in Engineering Physics | Indian Institute of Technology, Delhi (_November 2022_)
 
