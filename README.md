@@ -8,17 +8,20 @@
 - B.Tech. in Engineering Physics | Indian Institute of Technology, Delhi (_November 2022_)
 
 ## Publications/Preprints ([Google Scholar](https://scholar.google.com/citations?user=eKnJti4AAAAJ&hl=en))
-1. **Y. M. Lokare**, D. Wei, L. Chan, B. M. Rubenstein, and J. B. Marston. Steady-State Statistics of Classical Nonlinear Dynamical Systems from Noisy Intermediate-Scale Quantum Devices. arXiv (2024). [Link to article](https://arxiv.org/abs/2409.06036).
-2. T. Kabengele, **Y. M. Lokare**, J. B. Marston, and B. M. Rubenstein. Modeling Stochastic Chemical Kinetics on Quantum Computers. arXiv (2024). [Link to article](https://doi.org/10.48550/arXiv.2404.08770).
-3. Y. Lokare. A Theoretical Analysis of the Transient Fluctuation Theorem for Accelerated Colloidal Systems in the Long-Time Limit. Eur. Phys. J. Plus **137**, 1173 (2022). [Link to article](https://link.springer.com/article/10.1140/epjp/s13360-022-03395-y).
-4. Y. Lokare. Stern-Gerlach interferometry for tests of quantum gravity and general applications. Front. Phys. **10**, 785125 (2022). [Link to article](https://www.frontiersin.org/articles/10.3389/fphy.2022.785125/full#:~:text=Stern%2DGerlach%20interferometry%20is%20considered,general%20theme%20in%20this%20context.).
-5. Y. Lokare. A complete analysis of spin coherence in the full-loop Stern Gerlach interferometer using non-squeezed and squeezed coherent states of the Quantum harmonic oscillator. arXiv (2021). [Link to article](https://arxiv.org/abs/2105.03785).
+1. **Y. M. Lokare**, T. Kabengele, J. B. Marston, and B. M. Rubenstein. Benchmarking Variational Quantum Algorithms For Solving Nonlinear Stochastic Differential Equations on Quantum Computers---(*Manuscript in preparaton*). 
+2. **Y. M. Lokare**, D. Wei, L. Chan, B. M. Rubenstein, and J. B. Marston. Steady-State Statistics of Classical Nonlinear Dynamical Systems from Noisy Intermediate-Scale Quantum Devices. arXiv (2024). [Link to article](https://arxiv.org/abs/2409.06036).
+3. T. Kabengele, **Y. M. Lokare**, J. B. Marston, and B. M. Rubenstein. Modeling Stochastic Chemical Kinetics on Quantum Computers. arXiv (2024). [Link to article](https://doi.org/10.48550/arXiv.2404.08770).
+4. Y. Lokare. A Theoretical Analysis of the Transient Fluctuation Theorem for Accelerated Colloidal Systems in the Long-Time Limit. Eur. Phys. J. Plus **137**, 1173 (2022). [Link to article](https://link.springer.com/article/10.1140/epjp/s13360-022-03395-y).
+5. Y. Lokare. Stern-Gerlach interferometry for tests of quantum gravity and general applications. Front. Phys. **10**, 785125 (2022). [Link to article](https://www.frontiersin.org/articles/10.3389/fphy.2022.785125/full#:~:text=Stern%2DGerlach%20interferometry%20is%20considered,general%20theme%20in%20this%20context.).
+6. Y. Lokare. A complete analysis of spin coherence in the full-loop Stern Gerlach interferometer using non-squeezed and squeezed coherent states of the Quantum harmonic oscillator. arXiv (2021). [Link to article](https://arxiv.org/abs/2105.03785).
 
 ## Conferences
-1. **Y. Lokare**, L. Chan, B. M. Rubenstein, and J. B. Marston. NISQ Computing the Climate. *APS March Meeting*, March 2024, Minneapolis, Minnesota. [Link to the abstract](https://meetings.aps.org/Meeting/MAR24/Session/K49.3).
-2. J. B. Marston, **Y. Lokare**, L. Chan, and B. M. Rubenstein. Quantum Computing the Climate? *24th Conference on Atmospheric and Oceanic Fluid Dynamics & 22nd Conference on Middle Atmosphere*. June 2024, Burlington, Vermont. [Abstract](https://ams.confex.com/ams/24Fluid22Middle/meetingapp.cgi/Paper/443870) + [Final Poster](https://drive.google.com/file/d/1LUUf4vBaXHLAMIWrmWFf4SjczksdRWH5/view?usp=drive_link). 
+1. B. M. Rubenstein, **Y. M. Lokare**, T. Kabengele, L. Chan, D. Wei, and J. B. Marston. Modeling Classical Climate and Chemical Dynamics on Quantum Hardware. *SIAM Conference on Applications of Dynamical Systems (DS25)*, May 2025, Denver, Colorado.
+2. J. B. Marston, L. Chan, **Y. Lokare**, B. M. Rubenstein, and D. Wei. Quantum Computing the Climate? *Joint March Meeting and April Meeting: Global Physics Summit 2025*, March 2025, Anaheim, California.
+3. **Y. Lokare**, L. Chan, B. M. Rubenstein, and J. B. Marston. NISQ Computing the Climate. *APS March Meeting*, March 2024, Minneapolis, Minnesota. [Link to the abstract](https://meetings.aps.org/Meeting/MAR24/Session/K49.3).
+4. J. B. Marston, **Y. Lokare**, L. Chan, and B. M. Rubenstein. Quantum Computing the Climate? *24th Conference on Atmospheric and Oceanic Fluid Dynamics & 22nd Conference on Middle Atmosphere*. June 2024, Burlington, Vermont. [Abstract](https://ams.confex.com/ams/24Fluid22Middle/meetingapp.cgi/Paper/443870) + [Final Poster](https://drive.google.com/file/d/1LUUf4vBaXHLAMIWrmWFf4SjczksdRWH5/view?usp=drive_link). 
 
-## Research Experience ([CV](https://drive.google.com/file/d/19dGWdnA8I9aenELp3b4KhdZvLwAFmKuC/view?usp=drive_link))
+## Research Experience ([CV]([https://drive.google.com/file/d/19dGWdnA8I9aenELp3b4KhdZvLwAFmKuC/view?usp=drive_link](https://drive.google.com/file/d/101ooWhhOwoEWufqFBbp7EdQSGEwIB7Vu/view?usp=drive_link)))
 **Graduate Research Assistant. Department of Physics/Chemistry (_Oct '22 - Present_)**
 - Supervised by Prof. [Brenda Rubenstein](https://vivo.brown.edu/display/brubenst) and Prof. [Brad Marston](https://sites.brown.edu/marstonresearchgroup/).
 - Working on modeling the steady-state statistics of classical nonlinear dynamical systems on Noisy Intermediate-Scale Quantum Devices.
