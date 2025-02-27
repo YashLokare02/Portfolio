@@ -8,7 +8,7 @@
 - B.Tech. in Engineering Physics | Indian Institute of Technology, Delhi (_November 2022_)
 
 ## Publications/Preprints ([Google Scholar](https://scholar.google.com/citations?user=eKnJti4AAAAJ&hl=en))
-1. **Y. M. Lokare**, T. Kabengele, J. B. Marston, and B. M. Rubenstein. Benchmarking Variational Quantum Algorithms For Solving Nonlinear Stochastic Differential Equations on Quantum Computers---(*Manuscript in preparaton*). 
+1. **Y. M. Lokare**, T. Kabengele, J. B. Marston, and B. M. Rubenstein. Benchmarking Variational Quantum Algorithms For Solving Nonlinear Stochastic Differential Equations on Quantum Computers---(*Manuscript in preparation*). 
 2. **Y. M. Lokare**, D. Wei, L. Chan, B. M. Rubenstein, and J. B. Marston. Steady-State Statistics of Classical Nonlinear Dynamical Systems from Noisy Intermediate-Scale Quantum Devices. arXiv (2024). [Link to article](https://arxiv.org/abs/2409.06036).
 3. T. Kabengele, **Y. M. Lokare**, J. B. Marston, and B. M. Rubenstein. Modeling Stochastic Chemical Kinetics on Quantum Computers. arXiv (2024). [Link to article](https://doi.org/10.48550/arXiv.2404.08770).
 4. Y. Lokare. A Theoretical Analysis of the Transient Fluctuation Theorem for Accelerated Colloidal Systems in the Long-Time Limit. Eur. Phys. J. Plus **137**, 1173 (2022). [Link to article](https://link.springer.com/article/10.1140/epjp/s13360-022-03395-y).
