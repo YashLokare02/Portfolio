@@ -6,7 +6,7 @@
 - B.Tech. in Engineering Physics | Indian Institute of Technology, Delhi (_November 2022_)
 
 ## Publications/Preprints ([Google Scholar](https://scholar.google.com/citations?user=eKnJti4AAAAJ&hl=en))
-1. **Y. M. Lokare** and M. J.-Coley O'Rourke. Engineering Boundaries for Bulk Phase Stabilization on Rydberg Atom Platforms---(*Manuscript in preparation*). 
+1. **Y. M. Lokare** and M. J. Coley-O'Rourke. Engineering Boundaries for Bulk Phase Stabilization on Rydberg Atom Platforms---(*Manuscript in preparation*). 
 2. **Y. M. Lokare**, P. Vaish, T. Kabengele, and B. M. Rubenstein. Assessing The Feasibility Of qEOM For Computing Molecular Transition Properties on Quantum Computers---(*Manuscript in preparation*). 
 3. **Y. M. Lokare**, T. Kabengele, J. B. Marston, and B. M. Rubenstein. Assessing The Feasibility Of Variational Quantum Algorithms For Solving Nonlinear Stochastic Differential Equations on Quantum Computers---(*Manuscript in preparation*). 
 4. **Y. M. Lokare**, D. Wei, L. Chan, B. M. Rubenstein, and J. B. Marston. Steady-State Statistics of Classical Nonlinear Dynamical Systems from Noisy Intermediate-Scale Quantum Devices. arXiv (2024). [Link to article](https://arxiv.org/abs/2409.06036).
