@@ -1,7 +1,7 @@
 # Graduate Student in Physics
 
 ## Education
-- Ph.D. Physics | Brown University (Exp. _2030_)
+- Ph.D. Physics | Brown University (Exp. _2029_)
 - Sc.M. Physics | Brown University (_May 2024_)
 - B.Tech. in Engineering Physics | Indian Institute of Technology, Delhi (_November 2022_)
 
