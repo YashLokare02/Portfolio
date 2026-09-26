@@ -20,7 +20,7 @@
 2. **Y. Lokare**, L. Chan, B. M. Rubenstein, and J. B. Marston. NISQ Computing the Climate. *APS March Meeting*, March 2024, Minneapolis, Minnesota. [Link to the abstract](https://meetings.aps.org/Meeting/MAR24/Session/K49.3).
 3. J. B. Marston, **Y. Lokare**, L. Chan, and B. M. Rubenstein. Quantum Computing the Climate? *24th Conference on Atmospheric and Oceanic Fluid Dynamics & 22nd Conference on Middle Atmosphere*. June 2024, Burlington, Vermont. [Abstract](https://ams.confex.com/ams/24Fluid22Middle/meetingapp.cgi/Paper/443870) + [Final Poster](https://drive.google.com/file/d/1LUUf4vBaXHLAMIWrmWFf4SjczksdRWH5/view?usp=drive_link). 
 
-My latest CV can be found here: [CV]([https://drive.google.com/file/d/1QGKNuY_-jncLS09-JNn5M7L44cRiTXrG/view?usp=drive_link](https://drive.google.com/file/d/1xDjUIsZXdYOKM13PLciERr880SNBmXtB/view?usp=drive_link)). 
+My latest CV can be found here: [CV](https://drive.google.com/file/d/1xDjUIsZXdYOKM13PLciERr880SNBmXtB/view?usp=sharing). 
 
 
 
